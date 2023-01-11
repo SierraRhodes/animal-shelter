@@ -1,0 +1,76 @@
+.pet-profile {
+  border: 2px solid blue;
+  margin: 10px;
+  padding: 10px;
+  width: 30%;
+  box-sizing: border-box;
+  margin: auto;
+  display: block;
+  background-color: aquamarine;
+  outline-style: dotted;
+}
+
+.container {
+  text-align: center;
+  height: auto;
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+
+h1 {
+  border: 2px solid blueviolet;
+  text-align: center; 
+}
+
+h2 {
+  color: red;
+
+}
+
+img {
+width: 50%;
+height: 150px;
+justify-content: space-evenly;
+}
+
+.treats {
+  width: 200px;
+  float: right;
+}
+
+.names {
+  color: black;
+}
+
+.container2 {
+  text-align: center;
+  height: auto;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.home {
+  border: 10px solid blue;
+  margin: 30px;
+  padding: 30px;
+  width: 30%;
+  box-sizing: border-box;
+  justify-content: space-evenly;
+  margin: auto;
+  display: block;
+  background-color: aquamarine;
+  outline-style: dotted;
+}
+
+.dog {
+  margin: auto;
+  height: auto;
+  display: block;
+  justify-content: space-evenly;
+}
+
+h3 {
+  font-size: 30px;
+  text-align: center;
+}
